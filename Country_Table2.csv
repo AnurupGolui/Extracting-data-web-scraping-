@@ -1,0 +1,182 @@
+#,rank,Country,Mbps
+1,-,Singapore,286.66
+2,+2,Chile,272.01
+3,-1,Hong Kong (SAR),270.72
+4,-1,Iceland,259.72
+5,+1,United Arab Emirates,257.14
+6,+1,United States,242.38
+7,+1,France,240.36
+8,-3,China,238.17
+9,-,Monaco,236.00
+10,+1,Thailand,226.36
+11,-1,Denmark,225.81
+12,+1,Spain,219.37
+13,-1,Romania,212.53
+14,-,Switzerland,202.88
+15,-,Japan,198.60
+16,-,Netherlands,195.05
+17,-,Canada,194.31
+18,+1,Israel,192.88
+19,-1,Liechtenstein,187.01
+20,-,Hungary,173.48
+21,-,Portugal,172.83
+22,+1,South Korea,170.94
+23,+3,Kuwait,166.42
+24,-,New Zealand,163.86
+25,-,Macau (SAR),158.63
+26,+2,Poland,154.68
+27,-,Sweden,154.37
+28,-6,Taiwan,153.00
+29,-,Panama,151.68
+30,-,Brazil,150.04
+31,+3,Uruguay,142.77
+32,-1,Luxembourg,137.86
+33,+3,Colombia,137.73
+34,-1,Qatar,136.89
+35,-3,Norway,136.21
+36,+9,Moldova,132.80
+37,-2,Jordan,132.03
+38,+8,Andorra,120.14
+39,-1,Malta,116.12
+40,-3,Finland,115.47
+41,-2,Malaysia,113.89
+42,-1,Trinidad and Tobago,113.09
+43,-1,Lithuania,111.17
+44,-4,Ireland,110.64
+45,+2,Peru,109.59
+46,-2,Saudi Arabia,108.73
+47,-4,Vietnam,107.24
+48,+1,United Kingdom,101.71
+49,+6,San Marino,100.17
+50,-2,Belgium,97.61
+51,-1,Costa Rica,94.03
+52,-1,Philippines,93.90
+53,-1,Slovenia,93.47
+54,-1,Germany,91.96
+55,-1,Latvia,91.78
+56,+2,Cyprus,91.69
+57,+4,Saint Lucia,91.49
+58,-2,Barbados,90.63
+59,-,Paraguay,89.62
+60,+2,Austria,87.99
+61,-4,Dominica,87.57
+62,+4,Montenegro,87.30
+63,+4,Ecuador,86.22
+64,+8,Guyana,86.10
+65,-2,Russia,85.94
+66,-1,Saint Vincent and the Grenadines,82.96
+67,+2,Bahrain,82.44
+68,-,Bulgaria,81.46
+69,-9,Estonia,81.26
+70,-6,Grenada,80.38
+71,+4,Brunei,79.69
+72,+2,Argentina,79.28
+73,-2,Italy,78.54
+74,+2,Serbia,77.07
+75,-2,Slovakia,77.04
+76,-6,Ukraine,75.70
+77,+3,Croatia,71.65
+78,-,Kosovo,69.74
+79,+2,Jamaica,69.21
+80,-3,Czechia,68.34
+81,-2,Mongolia,66.53
+82,+1,Palestine,65.86
+83,+8,Uzbekistan,65.76
+84,+2,Oman,65.62
+85,-1,Nepal,65.48
+86,-4,Egypt,63.43
+87,+3,Belarus,62.67
+88,-1,India,62.07
+89,-1,Mexico,61.97
+90,+3,The Bahamas,60.94
+91,-6,Albania,60.32
+92,-,Saint Kitts and Nevis,60.02
+93,-4,Côte d'Ivoire,58.69
+94,+1,Australia,58.35
+95,-1,Kyrgyzstan,56.06
+96,+1,Nicaragua,52.78
+97,-1,Armenia,50.84
+98,-,Mauritius,50.77
+99,+3,Kazakhstan,50.70
+100,+1,El Salvador,50.30
+101,-2,Greece,50.12
+102,-2,Guatemala,49.24
+103,-,South Africa,47.37
+104,+1,Belize,45.78
+105,-1,Honduras,45.27
+106,+4,Venezuela,44.86
+107,+2,Bangladesh,43.70
+108,-2,Cambodia,43.60
+109,-1,Burkina Faso,43.21
+110,-3,Congo,42.80
+111,-,Turkey,41.90
+112,+2,North Macedonia,40.70
+113,+3,DR Congo,40.30
+114,+1,Gabon,39.49
+115,+3,Azerbaijan,37.32
+116,+3,Haiti,36.66
+117,-4,Dominican Republic,34.85
+118,-6,Ghana,34.42
+119,-2,Antigua and Barbuda,34.41
+120,-,Madagascar,34.29
+121,+2,Bolivia,32.80
+122,-1,Laos,32.68
+123,-1,Iraq,32.60
+124,+4,Bosnia and Herzegovina,31.07
+125,+1,Indonesia,29.62
+126,-1,Seychelles,29.15
+127,-3,Togo,29.07
+128,+1,Rwanda,28.06
+129,+1,Morocco,26.92
+130,+1,Georgia,26.30
+131,+1,Tajikistan,24.86
+132,+2,Benin,24.68
+133,-6,Lesotho,24.14
+134,+3,Mauritania,23.11
+135,-2,Sri Lanka,22.73
+136,+5,Sierra Leone,21.86
+137,+3,Zambia,21.26
+138,-,Senegal,21.08
+139,-,Western Sahara,20.79
+140,+3,Myanmar (Burma),20.71
+141,+3,Mali,20.45
+142,-7,Angola,19.96
+143,-1,Nigeria,19.91
+144,+1,Tanzania,18.45
+145,+1,Malawi,18.36
+146,-10,Djibouti,17.07
+147,+1,Fiji,16.99
+148,+10,Swaziland,16.29
+149,+7,Cape Verde,14.74
+150,-3,Bhutan,14.66
+151,+4,Zimbabwe,14.32
+152,-2,Pakistan,14.04
+153,-,Mozambique,14.03
+154,-5,Papua New Guinea,13.96
+155,+2,Namibia,13.89
+156,-4,Iran,13.51
+157,-6,Somalia,13.19
+158,-4,Uganda,13.08
+159,+2,Maldives,12.40
+160,-1,Algeria,12.36
+161,-1,Suriname,12.25
+162,+4,Libya,11.99
+163,-1,Micronesia,11.94
+164,+6,Sudan,11.70
+165,-2,Lebanon,11.24
+166,-2,Kenya,10.58
+167,-2,Guinea,10.34
+168,-1,Cameroon,9.73
+169,-1,Tunisia,9.41
+170,+2,Liberia,9.23
+171,-2,Ethiopia,8.77
+172,+3,Botswana,8.29
+173,-2,Turkmenistan,7.53
+174,-,Yemen,7.38
+175,+3,Niger,6.16
+176,-,Burundi,5.80
+177,-,The Gambia,5.51
+178,-5,East Timor,4.81
+179,-,Syria,3.71
+180,-,Afghanistan,3.03
+181,-,Cuba,2.55
